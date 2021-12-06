@@ -85,5 +85,5 @@ flutter:
   # identifiers, which may be completely independent or the same as these.
   module:
     androidX: true
-    androidPackage: com.example.upload.flutter_aar_upload
+    androidPackage: com.example.upload
     iosBundleIdentifier: com.example.upload.flutterAarUpload

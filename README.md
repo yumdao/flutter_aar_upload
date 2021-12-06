@@ -2,10 +2,6 @@
 
 An example of how to upload an AAR to a Maven remote repository.
 
-## Getting Started
+## 相关链接
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.dev/).
-
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
+[Android打包Flutter模块上传到maven仓库的最佳实现](https://juejin.cn/post/7038509668498407455/)
